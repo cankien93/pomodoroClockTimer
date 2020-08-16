@@ -1,0 +1,14 @@
+.settingContainer{
+    display: flex;
+    font-size: 1.5em;
+  
+    width: 500px;
+    justify-content: space-around;
+    margin: auto;
+  }
+  .label{
+    margin: 10px; 
+  }
+  .btnSet{
+    margin: 10px;
+  }
